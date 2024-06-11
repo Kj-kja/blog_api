@@ -21,7 +21,7 @@ Git
 
 # Installation Steps
 Clone the repository:
-> git clone https://github.com/yourusername/blog-api.git
+> git clone https://github.com/Kj-kja/blog_api.git
 > cd blog-api
 
 Create a virtual environment and activate it:
