@@ -38,3 +38,4 @@ def delete_post(id):
     db.session.delete(post)
     db.session.commit()
     return '', 204
+
